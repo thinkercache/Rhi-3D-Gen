@@ -11,7 +11,7 @@ obj = bpy.data.objects["female_head.000"] #replace with male_head.000 if renderi
 
 #-----GENERATE RANDOM "Nose_Derformation_Severity"-----
 
-#our gpu supports only about 350 rendering in one run, then it automatically kills program
+#our machine supports only about 350 rendering in one run, then it automatically kills program
 #hence the following try and except block is added to support the rest of rendering process while skipping the random values which are generated already
 #but first skip all the random values that were already considered in the previous run !
 # Load the existing random values from the "rand_vals_run1.npy" file
