@@ -1,2 +1,2 @@
-# 3D-rhi-synth-2000
-Synthetic Rhinophyma Visual Dataset
+# Rhi-3D-Gen
+Synthetic Rhinophyma Visual Dataset Generation from 3D head models
